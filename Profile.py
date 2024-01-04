@@ -1,0 +1,8 @@
+age = (int("18"))
+first_name = (str("Joe"))
+last_name = (str("Mom"))
+gender = (str("Male"))
+origin_country = (str("Brazil"))
+if origin_country == ('Brazil'): nationality = (str("Brazilian"))
+else: nationality = (str("gringo"))
+print("age: ", str(age), "\nname: ", first_name, last_name, "\nGender: ", gender, "\nnationality: ", nationality)
