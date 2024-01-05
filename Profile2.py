@@ -1,0 +1,7 @@
+first_name = input("Enter your name: ")
+last_name = input("Enter your last name: ")
+age = input("Enter your age: ")
+height = input("Enter your height: ")
+gender = input("Enter your gender: ")
+nationality = input("Enter your nationality: ")
+print("Name: ", first_name, last_name, "\n Age: ", age, "\n Height: ", height, "\n Gender: ", gender, "\n Nationality: ", nationality)
